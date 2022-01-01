@@ -1,0 +1,140 @@
+user: EXIT ends the library process
+COMMANDS outputs this help string
+
+LIST ALL [LONG] outputs either the short or long string for all books
+LIST AVAILABLE [LONG] outputs either the short of long string for all available books
+NUMBER COPIES outputs the number of copies of each book
+LIST GENRES outputs the name of every genre in the system
+LIST AUTHORS outputs the name of every author in the system
+
+GENRE <genre> outputs the short string of every book with the specified genre
+AUTHOR <author> outputs the short string of every book by the specified author
+
+BOOK <serialNumber> [LONG] outputs either the short or long string for the specified book
+BOOK HISTORY <serialNumber> outputs the rental history of the specified book
+
+MEMBER <memberNumber> outputs the information of the specified member
+MEMBER BOOKS <memberNumber> outputs the books currently rented by the specified member
+MEMBER HISTORY <memberNumber> outputs the rental history of the specified member
+
+RENT <memberNumber> <serialNumber> loans out the specified book to the given member
+RELINQUISH <memberNumber> <serialNumber> returns the specified book from the member
+RELINQUISH ALL <memberNumber> returns all books rented by the specified member
+
+ADD MEMBER <name> adds a member to the system
+ADD BOOK <filename> <serialNumber> adds a book to the system
+
+ADD COLLECTION <filename> adds a collection of books to the system
+SAVE COLLECTION <filename> saves the system to a csv file
+
+COMMON <memberNumber1> <memberNumber2> ... outputs the common books in members' history
+
+user: 17 books successfully added.
+
+user: 17 books successfully added.
+
+user: Success.
+
+user: Success.
+
+user: Success.
+
+user: Success.
+
+user: 111113: The Iliad (Homer, Poetry)
+Currently available.
+
+111114: The Odyssey (Homer, Poetry)
+Currently available.
+
+111115: The Hitchhiker's Guide to the Galaxy (Douglas Adams, Comedy)
+Currently available.
+
+111116: So Long and Thanks for all the Fish (Douglas Adams, Comedy)
+Currently available.
+
+111117: Batman Volume 1 (Bob Kane, Comic)
+Currently available.
+
+111118: Harry Potter 1 (J.K. Rowling, Fantasy)
+Currently available.
+
+111119: Harry Potter 2 (J.K. Rowling, Fantasy)
+Currently available.
+
+111120: Harry Potter 3 (J.K. Rowling, Fantasy)
+Currently available.
+
+111121: Harry Potter 4 (J.K. Rowling, Fantasy)
+Currently available.
+
+111122: Harry Potter 5 (J.K. Rowling, Fantasy)
+Currently available.
+
+111123: Harry Potter 6 (J.K. Rowling, Fantasy)
+Currently available.
+
+111124: Wasteland (T.S. Eliot, Poetry)
+Currently available.
+
+111125: Biggles in the Battle (W.E. Johns, War)
+Currently available.
+
+111126: Aeneid (Virgil, Epic)
+Currently available.
+
+111127: Halloween (Jamie Lee Curtis, Horror)
+Currently available.
+
+111181: To Kill a Mockingbird (Harper Lee, Historical Fiction)
+Currently available.
+
+111182: The Hobbit (J.R.R. Tolkien, Fantasy)
+Currently available.
+
+111183: The Iliad (Homer, Poetry)
+Currently available.
+
+111184: The Odyssey (Homer, Poetry)
+Currently available.
+
+111185: The Hitchhiker's Guide to the Galaxy (Douglas Adams, Comedy)
+Currently available.
+
+111186: So Long and Thanks for all the Fish (Douglas Adams, Comedy)
+Currently available.
+
+111187: Batman Volume 1 (Bob Kane, Comic)
+Currently available.
+
+111188: Harry Potter 7 (J.K. Rowling, Fantasy)
+Currently available.
+
+111189: Harry Potter 8 (J.K. Rowling, Fantasy)
+Currently available.
+
+111190: Harry Potter 9 (J.K. Rowling, Fantasy)
+Currently available.
+
+111195: Harry Potter 10 (J.K. Rowling, Fantasy)
+Currently available.
+
+111197: Harry Potter 11 (J.K. Rowling, Fantasy)
+Currently available.
+
+111199: Harry Potter 12 (J.K. Rowling, Fantasy)
+Currently available.
+
+111222: Wasteland (T.S. Eliot, Poetry)
+Currently available.
+
+111224: Biggles in the Battle (W.E. Johns, War)
+Currently available.
+
+111227: Aeneid (Virgil, Epic)
+Currently available.
+
+117464: Halloween (Jamie Lee Curtis, Horror)
+Currently available.
+
+user: Ending Library process.

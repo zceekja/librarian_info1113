@@ -1,0 +1,13 @@
+rent 100000 111111
+add collection book1.csv
+add member Tony Stark
+rent 100000 111111
+rent 100000 111112
+rent 100000 111113
+relinquish 100000 111112
+member books 100000
+member history 100000
+relinquish all 100000
+member books 100000
+member history 100000
+exit

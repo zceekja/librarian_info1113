@@ -1,0 +1,8 @@
+add collection book1.csv
+add member Tony Stark
+add member Peter parker
+rent 100000 111111
+rent 100001 111112
+relinquish 100000 111111
+relinquish 100001 111112
+common 100000 100001

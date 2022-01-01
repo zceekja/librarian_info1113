@@ -1,0 +1,4 @@
+add collection book1.csv
+add member Tony Stark
+rent 100000 111111
+list available

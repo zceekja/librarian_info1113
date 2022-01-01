@@ -1,0 +1,31 @@
+add collection book1.csv
+add member Tony Stark
+add member Peter parker
+add member Steven G. Rogers
+add member T'challa
+rent 100000 111111
+rent 100000 111112
+rent 100000 111113
+rent 100000 111114
+rent 100000 111115
+rent 100000 111116
+relinquish all 100000
+rent 100001 111111
+rent 100001 111113
+rent 100001 111114
+rent 100001 111115
+rent 100001 111116
+relinquish all 100001
+rent 100002 111111
+rent 100002 111112
+rent 100002 111114
+rent 100002 111115
+rent 100002 111116
+relinquish all 100002
+rent 100003 111111
+rent 100003 111112
+rent 100003 111113
+rent 100003 111115
+rent 100003 111116
+relinquish all 100003
+common 100000 100001 100002 100003
